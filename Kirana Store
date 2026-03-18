@@ -1,3 +1,31 @@
 KIRANA STORE
 
 Used to check the inventory details and store details for a small scaled store
+
+Kirana Store/
+├── app.py                      # 🚀 Main Streamlit entry point
+├── requirements.txt            # Python dependencies
+├── .env                        # Local environment secrets (not committed)
+│
+├── core/                       # Business Logic Layer
+│   ├── database_connection.py  # Supabase client setup (local + cloud)
+│   ├── database_manager.py     # CRUD operations, Auth, RBAC
+│   ├── ml_engine.py            # Prophet-based demand forecasting
+│   ├── email_manager.py        # SendGrid email alert integration
+│   └── watchdog_sync.py        # File-system watcher for auto data sync
+│
+├── api/                        # REST API Layer
+│   └── api_gateway.py          # FastAPI POS webhook server
+│
+├── app/                        # Streamlit UI Modules
+│   └── store_management_page.py # Multi-store management UI
+│
+├── scripts/                    # Legacy / Utility Scripts
+│   ├── analysis.py             # Exploratory sales analysis
+│   ├── prediction.py           # CLI-based burn rate prediction
+│   ├── main.py                 # Old CLI entry point
+│   └── helpers.py              # CSV data loader helper
+│
+├── data/                       # Raw / processed data files
+├── logs/                       # Application log output
+└── billing_exports/            # Exported billing data

@@ -29,3 +29,15 @@ Kirana Store/
 ├── data/                       # Raw / processed data files
 ├── logs/                       # Application log output
 └── billing_exports/            # Exported billing data
+
+
+
+
+**🚀 Features**
+🔐 User Authentication & RBAC – Supabase Auth login with Admin/Staff role enforcement
+📊 Sales Analytics – Top products, weekly trends, store-level breakdowns
+🔮 AI Demand Forecasting – Prophet (Meta) ML model for next-week predictions
+🏪 Multi-Store Management – Add, update, and compare multiple store locations
+📧 Email Alerts – SendGrid-powered low-stock email notifications
+⚡ Real-Time POS Integration – FastAPI webhook endpoint /webhook/sale for live POS data ingestion
+📤 Export – Download sales data as CSV or Excel

@@ -42,7 +42,7 @@ Kirana Store/
 📤 Export – Download sales data as CSV or Excel.
 
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Layer	Technology
 Frontend	Streamlit
 Backend	FastAPI + Uvicorn

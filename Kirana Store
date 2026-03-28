@@ -40,3 +40,14 @@ Kirana Store/
 📧 Email Alerts – SendGrid-powered low-stock email notifications.
 ⚡ Real-Time POS Integration – FastAPI webhook endpoint /webhook/sale for live POS data ingestion.
 📤 Export – Download sales data as CSV or Excel.
+
+
+🛠️ Tech Stack
+Layer	Technology
+Frontend	Streamlit
+Backend	FastAPI + Uvicorn
+Database	Supabase (PostgreSQL)
+ML Engine	Prophet (Meta)
+Auth	Supabase Auth
+Alerts	SendGrid
+Language	Python 3.12+

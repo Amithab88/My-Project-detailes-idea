@@ -5,3 +5,5 @@
   It is an impact detection system which calcluates the imapact of an ateroid on the earth surfaces.
 
 **-Kirana Peridict**
+
+  It is an inventory management for small sclaed stores

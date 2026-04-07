@@ -6,4 +6,4 @@
 
 **-Kirana Peridict**
 
-  It is an inventory management for small sclaed stores
+  It is an inventory management for small sclaed stores.

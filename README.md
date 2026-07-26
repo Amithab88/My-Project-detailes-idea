@@ -9,3 +9,5 @@
   It is an inventory management for small sclaed stores.
 
 **-Manufacturing Analytics**
+
+It is used to analyze the manufacturing belt of a company. Where it has it's own database and tablesrelated to it.

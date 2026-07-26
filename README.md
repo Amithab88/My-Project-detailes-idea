@@ -7,3 +7,5 @@
 **-Kirana Peridict**
 
   It is an inventory management for small sclaed stores.
+
+**-Manufacturing Analytics**

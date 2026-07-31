@@ -11,6 +11,7 @@
 **-Manufacturing Analytics**
 
 It is used to analyze the manufacturing belt of a company. Where it has it's own database and tables related to it.
+It consists of analytics folder for each tables which provides the KPI's.
 
 **Jikoshi-kai**
 

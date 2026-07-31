@@ -10,7 +10,7 @@
 
 **-Manufacturing Analytics**
 
-It is used to analyze the manufacturing belt of a company. Where it has it's own database and tablesrelated to it.
+It is used to analyze the manufacturing belt of a company. Where it has it's own database and tables related to it.
 
 **Jikoshi-kai**
 

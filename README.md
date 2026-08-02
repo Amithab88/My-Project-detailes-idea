@@ -19,6 +19,8 @@ Analytics folder consists of :
                 --quality.py
                 --employees.py
                 --trends.py
+                
+Dashboard folder consists of :
 
 **Jikoshi-kai**
 

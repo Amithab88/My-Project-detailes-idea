@@ -13,12 +13,12 @@
 It is used to analyze the manufacturing belt of a company. Where it has it's own database and tables related to it.
 It consists of analytics folder for each tables which provides the KPI's.
 Analytics folder consists of :
-                production.py
-                factories.py
-                machines.py
-                quality.py
-                employees.py
-                trends.py
+                --production.py
+                --factories.py
+                --machines.py
+                --quality.py
+                --employees.py
+                --trends.py
 
 **Jikoshi-kai**
 

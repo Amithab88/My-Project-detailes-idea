@@ -28,7 +28,7 @@ Dashboard folder consists of :
                 --components.py
                 --dashboard_service.py
 
-Includes charts like bar and donut charts.
+Includes charts like bar and donut charts fir factory production and machine status.
 
 **Jikoshi-kai**
 

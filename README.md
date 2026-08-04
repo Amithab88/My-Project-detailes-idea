@@ -28,6 +28,8 @@ Dashboard folder consists of :
                 --components.py
                 --dashboard_service.py
 
+Includes charts like bar and donut charts.
+
 **Jikoshi-kai**
 
 Jikoshi-kai means "About Me", is a personalized portfolio.

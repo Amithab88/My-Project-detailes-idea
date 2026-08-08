@@ -34,4 +34,4 @@ Added filtering options.
 
 **Jikoshi-kai**
 
-Jikoshi-kai means "About Me", is a personalized portfolio.
+Jikoshi-kai means "About Me", is a personalized portfolio for a Data Analyst role.

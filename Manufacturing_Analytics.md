@@ -9,7 +9,13 @@ Analytics folder consists of :
   --employees.py 
   --trends.py
 
-Dashboard folder consists of : --init.py --apps.py --charts.py --components.py --dashboard_service.py
+Dashboard folder consists of : 
+
+    --init.py 
+    --apps.py 
+    --charts.py 
+    --components.py 
+    --dashboard_service.py
 
 Includes charts like bar and donut charts fir factory production, machine status, factory production rate, factory defect rate and top performing employees.
 

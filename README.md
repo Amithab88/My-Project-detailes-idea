@@ -35,6 +35,6 @@ Added filtering options.
 **Jikoshi-kai**
 
 Jikoshi-kai(About Me), is a personalized portfolio for a Data Analyst role.
-More with an Ikigai touch.
+Ikigai blended portfolio.
 
 

@@ -21,3 +21,10 @@ Dashboard folder consists of :
 
 Includes charts like bar and donut charts fir factory production, machine status, factory production rate, factory defect rate and top performing employees.
 
+Added filtering options like,
+
+    --factories
+    --shift
+    --machine status
+    --date (time duration)
+

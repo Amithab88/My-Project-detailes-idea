@@ -25,7 +25,7 @@ Added filtering options like,
 
     --factories
     --shift
-    --machine status
+    --machine status (doesn't filters with the date)
     --date (time duration)
 
 It filters the KPI cards, Factory production, Machine status, Monthly defects and Monthly production till now.

@@ -28,4 +28,4 @@ Added filtering options like,
     --machine status
     --date (time duration)
 
-It filters the KPI cards, Factory production, Machine status, Monthly defects and Monthly production till now 
+It filters the KPI cards, Factory production, Machine status, Monthly defects and Monthly production till now.

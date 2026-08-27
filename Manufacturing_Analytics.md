@@ -1,5 +1,5 @@
 
-It is a manufaturing analytical dashboard of a ABC company. This dashboard is viewed in Streamlit platform. Where it has it's own database and tables related to it. It consists of KPI's and other analysis of the ABC company.
+It is a manufaturing analytical dashboard of a ABC company. This dashboard is viewed in Streamlit platform. These data are collected from it's own database and tables. It consists of KPI's and other analysis of the ABC company.
 
 Analytics folder consists of : 
 

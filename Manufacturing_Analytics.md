@@ -1,5 +1,5 @@
 
-It is used to analyze the manufacturing belt of a company. Where it has it's own database and tables related to it. It consists of analytics folder for each tables which provides the KPI's. 
+It is a manufaturing analytical dashboard of a ABC company. This dashboard is viewed in Streamlit platform. Where it has it's own database and tables related to it. It consists of analytics folder for each tables which provides the KPI's. 
 
 Analytics folder consists of : 
 
